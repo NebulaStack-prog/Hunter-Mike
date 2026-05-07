@@ -7,6 +7,11 @@
   
 - Or run [Calculator_v.1.py](Calculator_v.1.py)
 
+## 💾 Code comments:
+- 🇷🇺 Russian version: [Comments](Calc_v.1_com_RU.py)
+  
+- 🇺🇲 English version: [Comments](Calc_v.1_com_EN.py)
+
 ## 📄 Full documentation:
 - 🇷🇺  Russian version [Document](README_RU.md)
   
