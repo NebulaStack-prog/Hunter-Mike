@@ -8,9 +8,9 @@
 - Or download exe: [Calculator_v.1.exe](Calculator_v.1.exe)
 
 ## 📄 Full documentation
-- 🇷🇺  Russian version [Document](README_RU.md)
+- 🇷🇺  Russian version: [Documentation](README_RU.md)
   
-- 🇺🇲  English version: [Document](README_EN.md)
+- 🇺🇲  English version: [Documentation](README_EN.md)
 
 ## 📷 Screenshots
 ![](screenshot1.png)
