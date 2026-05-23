@@ -5,7 +5,7 @@
 ## 💻 Project Run
 - Open with Construct 3: [Calculator_v.1.py](Calculator_v.1.py)
 
-- Or download exe: [Calculator_v.1.exe](Calculator_v.1.exe)
+- Or download exe: [Calculator_v.1.exe]()
 
 ## 📄 Full documentation
 - 🇷🇺  Russian version: [Documentation](README_RU.md)
