@@ -5,9 +5,9 @@
 > 2D platformer inspired by Dangerous Dave (1991).
 
 ## 💻 Project Run
-- Open with Construct 3: [Calculator_v.1.py](Calculator_v.1.py)
+- Open with Construct 3: [Hunter_Mike.c3p](Calculator_v.1.py)
 
-- Or download exe: [Calculator_v.1.exe]()
+- Or download exe: [Hunter_Mike.exe]()
 
 ## 📄 Full documentation
 - 🇷🇺  Russian version: [Documentation](README_RU.md)
