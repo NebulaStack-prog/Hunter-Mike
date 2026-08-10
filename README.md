@@ -17,4 +17,4 @@
 ## 📷 Screenshots
 ![](screenshot1.png)
 
-© NebulaStack
+© NESTIMS
