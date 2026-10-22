@@ -5,14 +5,14 @@
 > 2D platformer inspired by Dangerous Dave (1991).
 
 ## 💻 Project Run
-- Open with Python: [More...](Industrial_Zero.py)
+- Open with Python: [Industrial_Zero.py](Industrial_Zero.py)
 
-- Or download exe: [More...]()
+- Or download exe: [Industrial_Zone.exe](https://github.com/NebulaStack-prog/Hunter-Mike/releases/tag/v1.0.0)
 
 ## 📄 Full documentation
-- 🇷🇺  Russian version: [Documentation](README_RU.md)
+- 🇷🇺  Russian version: [Documentation](IZ_RU.md)
   
-- 🇺🇲  English version: [Documentation](README_EN.md)
+- 🇺🇲  English version: [Documentation](IZ_EN.md)
 
 ## 📷 Screenshots
 ![](IZ_1.png)
