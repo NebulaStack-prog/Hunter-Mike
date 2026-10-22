@@ -5,7 +5,7 @@
 > 2D platformer inspired by Dangerous Dave (1991).
 
 ## 💻 Project Run
-- Open with Python: [More...](Industrial_Zone.py)
+- Open with Python: [More...](Industrial_Zero.py)
 
 - Or download exe: [More...]()
 
