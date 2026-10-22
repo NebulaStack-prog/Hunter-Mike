@@ -1,4 +1,4 @@
-# Industrial Zone (Hunter Mike)
+# Industrial Zero (Hunter Mike)
 
 <img src="https://github.com/NebulaStack-prog/Hunter-Mike/raw/main/IMG_20260701_020306_930.jpg" width="200" height="230">
 
