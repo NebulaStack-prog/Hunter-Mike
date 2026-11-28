@@ -36,9 +36,9 @@ Explore an industrial facility, navigate platforms, collect a keycard, restore p
 
 ## 📦 Installation
 
-- Download EXE from Releases: [more...](https://github.com/NebulaStack-prog/Hunter-Mike/releases/tag/v1.0.0)
+- Download the Windows executable from Releases: [more...](https://github.com/NebulaStack-prog/Hunter-Mike/releases/tag/v1.0.0)
 
-- Or run with Python: [more...](Industrial_Zero.py)
+- Or run with Python original source code: [more...](Industrial_Zero.py)
 
 ## 📊 Project Status
 
